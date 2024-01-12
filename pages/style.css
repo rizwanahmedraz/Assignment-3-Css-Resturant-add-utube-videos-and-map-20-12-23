@@ -1,0 +1,51 @@
+@font-face {
+    font-family: my fonts;
+    src: url(/fonts/RubikDoodleShadow-Regular.ttf);
+}
+
+*{
+    background-color:rgb(61, 56, 61);
+    image-resolution: 40px;
+    }
+h1{
+    color: maroon;
+    font-family:my fonts;
+    src: url(/fonts/CabinSketch-Bold.ttf);
+    src: url(/fonts/CabinSketch-Regular.ttf);
+    text-shadow: 2px 2px 2px goldenrod;
+}
+li,{
+    font-family: my fonts;
+    src: url(/fonts/CabinSketch-Bold.ttf);
+    src: url(/fonts/CabinSketch-Regular.ttf);
+    src: url(/fonts/RubikDoodleShadow-Regular.ttf);
+    color:rgb(202, 199, 192);
+}
+p{
+    font-family:my fonts;
+   src: url(fonts/RubikDoodleShadow-Regular.ttf);
+   text-shadow: 1px 1px 1px forestgreen;
+}
+p{
+    color:palegoldenrod
+}
+a{
+    color: palegoldenrod;
+}
+li{
+    color: antiquewhite;
+    font-family: my fonts;
+    src: url(/fonts/CabinSketch-Bold.ttf);
+    src: url(/fonts/CabinSketch-Regular.ttf);
+    src: url(/fonts/RubikDoodleShadow-Regular.ttf);
+    text-shadow: darkorange;
+}
+a:hover{
+    text-decoration-color: brown;
+    text-decoration: none;
+}
+h1{
+    font-family: my fonts;
+   src: url(/fonts/CabinSketch-Regular.ttf);
+   color: #cd1e1e;
+}

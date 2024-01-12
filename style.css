@@ -1,0 +1,45 @@
+
+   @font-face{
+      font-family:my fonts;
+      src: url(fonts/RubikDoodleShadow-Regular.ttf);
+   }
+  
+div,b{
+   font-family:my fonts;
+   src: url(fonts/RubikDoodleShadow-Regular.ttf);
+   text-shadow: 1px 1px 1px forestgreen;
+}
+div{
+   color: rgb(202, 199, 192);
+}
+*{
+   background-color: rgb(47, 45, 45);
+}
+h1{
+   color: maroon;
+   text-align: center;
+
+}
+a :hover{
+   text-decoration:yellow;
+}
+:last-of-type
+
+li{
+   font-family: my fonts;
+   src: url(/fonts/CabinSketch-Regular.ttf);
+   color: #13e236;
+}
+h1{
+   font-size: 97px;
+   font-family: my fonts;
+   src: url(fonts/RubikDoodleShadow-Regular.ttf);
+   text-shadow: 2px 2px 2px goldenrod;
+}
+h3{
+   background-color: blueviolet;
+   font-size: 30px;
+   font-family: my fonts;
+   src: url(fonts/RubikDoodleShadow-Regular.ttf);
+   text-shadow: 2px 2px 2px goldenrod;
+}
